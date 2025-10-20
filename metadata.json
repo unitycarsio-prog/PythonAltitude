@@ -1,0 +1,5 @@
+{
+  "name": "PythonAltitude",
+  "description": "A powerful, in-browser Python playground powered by Pyodide. Execute code with popular libraries like NumPy and Matplotlib, and see instant results, including text output and data visualizations.",
+  "requestFramePermissions": []
+}
